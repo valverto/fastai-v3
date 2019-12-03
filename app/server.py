@@ -1,4 +1,3 @@
-Learn more or give us feedback
 import aiohttp
 import asyncio
 import uvicorn
